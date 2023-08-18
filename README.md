@@ -4,8 +4,8 @@ My name is Natalia Kyrylova
 Go (Golang) Software Engineer
 -----------------------------
 
-Result-oriented and highly motivated specialist Go Software Engineer with 3 month learning basics of language.
-Experienced in developed slice, interface, goroutince, chanals, struct and start learn gRPC. 
+Result-oriented and highly motivated specialist Go Software Engineer with 3 months learning basics of language.
+Experienced in developed slice, interface, goroutines, chanals, struct and starting to learn gRPC.
 
 * 🌍  I'm based in Kyiv, Ukraine
 * ✉️  You can contact me at [nataliakyrylovajob@gmail.com](mailto:nataliakyrylovajob@gmail.com)
