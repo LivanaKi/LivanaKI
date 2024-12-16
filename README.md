@@ -13,8 +13,13 @@ Contact [nataliakyrylovajob@gmail.com](mailto:nataliakyrylovajob@gmail.com)
 ### Skills
 
 Programming Languages: Go (Golang), Python, JavaScript
+
 Frameworks: Gin, Echo (basic knowledge)
+
 Databases: PostgreSQL, MySQL (basic SQL knowledge)
+
 Tools: Git, Docker (basic knowledge)
+
 API: REST API (development and integration)
+
 Other Skills: Basic algorithms and data structures, Unit Testing
